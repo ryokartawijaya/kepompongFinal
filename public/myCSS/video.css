@@ -1,0 +1,14 @@
+#postQuestions:hover{
+    width: 420px;
+    height: 105px;
+    transition: .1s;
+}
+
+#postQuestions{
+    height: 100px; width: 400px;background-color: #8816e1; border-radius: 20px;
+}
+
+#section1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
